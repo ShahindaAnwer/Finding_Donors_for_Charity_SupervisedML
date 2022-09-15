@@ -1,7 +1,7 @@
 # Supervised Learning
 ## Project: Finding Donors for CharityML
 
-### Packages
+### Libraries
 
 This project requires **Python 3.x** and the following Python libraries installed:
 
@@ -15,20 +15,6 @@ As well as a software installed to run and execute an [iPython Notebook](http://
 ### Code
 
 Code is provided in the `finding_donors.ipynb` notebook file. Also included, are the `visuals.py` Python file and the `census.csv` dataset file. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for manipulation.
-
-### Run
-
-In a terminal or command window, navigate to the top-level project directory `finding_donors/` (that contains this README) and run one of the following commands:
-
-```bash
-ipython notebook finding_donors.ipynb
-```  
-or
-```bash
-jupyter notebook finding_donors.ipynb
-```
-
-This will open the iPython Notebook software and project file in your browser.
 
 ### Data
 
